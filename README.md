@@ -14,7 +14,6 @@ My-Python-Mastery/
 ├── 04_OOP_and_GUIs/              # Phase 4: Classes, Objects, Games
 
 ├── 05_Files_and_RegEx/           # Phase 5: I/O, CSVs, Pattern Matching
-
 └── 06_Advanced_Automation/       # Phase 6: APIs, Web, Scripts
 
 
