@@ -1,8 +1,7 @@
-       # daily-code-practice
-learn to code as proffesional 
-Here, I'm going to learn to ocde like a proffesional  and writing the documantation side by side
+# daily-code-practice
+learn to code as proffesional. Here, I'm going to learn to ocde like a proffesional  and writing the documantation side by side
 
-My-Python-Mastery/
+My-Python-Mastery
 │
 ├── 01_Basics_and_Logic/          # Phase 1: Variables, If/Else, Functions
 ├── 02_Data_Structures_Loops/     # Phase 2: Lists, Dicts, While/For
